@@ -1,0 +1,16 @@
+Dataset/
+	train/
+		img1
+		img2
+		...
+		imgn
+	val/
+		img1
+		img2
+		...
+		imgn
+	test/
+		img1
+		img2
+		...
+		imgn
