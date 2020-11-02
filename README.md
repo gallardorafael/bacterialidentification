@@ -67,3 +67,25 @@ The following table summarizes the results of each trained model, with different
 #### Identification of Staphylococcus aureus
 
 ![Example1](res/staph_aureus.png)
+
+## Citations
+If you use/modify our code:
+```
+@article{Gallardo2020bacterialident,
+	title={Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices},
+	author={Rafael Gallardo-García, Sofía Jarquín-Rodríguez, Beatriz Beltrán-Martínez and Rodolfo Martínez},
+}
+```
+If you use the DIBaS dataset, please cite the authors as following:
+```
+@article{zielinski2017,
+	title={Deep learning approach to bacterial colony classification},
+	author={Zieli{\'n}ski, Bartosz and Plichta, Anna and Misztal, Krzysztof and Spurek, Przemys{\l}aw and Brzychczy-W{\l}och, Monika and Ocho{\'n}ska, Dorota},
+	journal={PloS one},
+	volume={12},
+	number={9},
+	pages={e0184554},
+	year={2017},
+	publisher={Public Library of Science San Francisco, CA USA}
+}
+
