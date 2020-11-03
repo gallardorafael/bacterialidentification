@@ -5,6 +5,22 @@ Authors: Rafael Gallardo-García, Sofía Jarquín-Rodríguez, Beatriz Beltrán-M
 
 Note: We highly recommend reading the paper to get a deeper understanding of the work.
 
+## Requirements
+Hardware:
+
+- A CUDA capable GPU is recommended.
+- At least 3 GB of storage.
+
+Software:
+
+- Python 3.8.5
+- matplotlib 3.3.0
+- torch 1.5.1
+- torchvision 0.6.1
+- numpy 1.19.1
+- seaborn 0.10.1
+
+
 ## Digital Image of Bacterial Species (DIBaS) dataset
 The original version of DIBaS dataset contains a total of 33 species of microorganisms, approximately 20 RGB images (of 2048x1532 pixels) per specie. We remove the set of images of Candida albicans colonies as it is considered fungi. The dataset was collected by the Chair of Microbiology of the Jagiellonian University in Krakow. The samples were stained using the Gramm’s method. All images were taken with an Olympus CX31 Upright Biological Microscope and a SC30 camera with a 100 times objective under oil-immersion. The DIBaS dataset is publicly available in the following [link](http://misztal.edu.pl/software/databases/dibas/).
 
