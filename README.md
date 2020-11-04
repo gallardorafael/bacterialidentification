@@ -104,4 +104,3 @@ If you use the DIBaS dataset, please cite the authors as following:
 	year={2017},
 	publisher={Public Library of Science San Francisco, CA USA}
 }
-

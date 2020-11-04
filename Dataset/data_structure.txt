@@ -1,16 +1,60 @@
+The Dataset folder should contain 3 sub folders: one with training samples, one with validation samples and one with test samples.
+Each one of those 3 subfolders should contain one folder for each specie in the dataset (i.e 32 folders). The name of each "specie"
+folder will be the label to all images in that folder.
+
+Please, use the following structure as a example:
+
 Dataset/
 	train/
-		img1
-		img2
+		Specie 1/
+			img_1.1
+			img_1.2
+			...
+			img_1.n
+		Specie 2/
+			img_2.1
+			img_2.2
+			...
+			img_2.n
 		...
-		imgn
+		Specie m/
+			img_m.1
+			img_m.2
+			...
+			img_m.n
+
 	val/
-		img1
-		img2
+		Specie 1/
+			img_1.1
+			img_1.2
+			...
+			img_1.n
+		Specie 2/
+			img_2.1
+			img_2.2
+			...
+			img_2.n
 		...
-		imgn
+		Specie m/
+			img_m.1
+			img_m.2
+			...
+			img_m.n
+
 	test/
-		img1
-		img2
+		Specie 1/
+			img_1.1
+			img_1.2
+			...
+			img_1.n
+		Specie 2/
+			img_2.1
+			img_2.2
+			...
+			img_2.n
 		...
-		imgn
+		Specie m/
+			img_m.1
+			img_m.2
+			...
+			img_m.n
