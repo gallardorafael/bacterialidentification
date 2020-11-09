@@ -1,5 +1,5 @@
 # Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices: Code and instructions.
-Repository for the paper: Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices
+Repository for the paper: [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](res/paper12_revisado_latex.pdf)
 
 Authors: Rafael Gallardo-García, Sofía Jarquín-Rodríguez, Beatriz Beltrán-Martínez and Rodolfo Martínez
 
