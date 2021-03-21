@@ -87,9 +87,13 @@ The following table summarizes the results of each trained model, with different
 ## Citations
 If you use/modify our code:
 ```
-@article{Gallardo2020bacterialident,
+@inproceedings{gallardo2020bacterialident,
 	title={Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices},
 	author={Rafael Gallardo-García, Sofía Jarquín-Rodríguez, Beatriz Beltrán-Martínez and Rodolfo Martínez},
+	booktitle={Aplicaciones Científicas y Tecnológicas de las Ciencias Computacionales},
+	pages={67--78},
+	year={2020},
+	organization={BUAP}
 }
 ```
 If you use the DIBaS dataset, please cite the authors as following:
